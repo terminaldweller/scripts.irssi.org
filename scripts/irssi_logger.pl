@@ -11,7 +11,7 @@ use vars qw($VERSION %IRSSI);
 # - postgresql
 # - postgresql-contrib (pg_trgm)
 
-$VERSION = "1.2";
+$VERSION = "1.3";
 %IRSSI = (
     authors     => "Aaron Bieber",
     contact     => "deftly\@gmail.com",
